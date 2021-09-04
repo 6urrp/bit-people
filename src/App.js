@@ -1,5 +1,6 @@
 import './App.css';
-import SingleGridUser from './Components/Users/GridUsers/SingleGridUser';
+import SingleUser from './Components/Users/SingleUser';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 }
