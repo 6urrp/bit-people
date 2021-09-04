@@ -1,4 +1,4 @@
-const hideEmail = email => {
+export const hideEmail = email => {
     let partTillAt = email.slice(0, (email.indexOf("@")));
     let part1;
     let part2;
